@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hwhaxd3v74lq45nh?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto5testmode)
 
 
 ## Задача №2 - Тестовый режим
